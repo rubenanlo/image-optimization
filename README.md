@@ -5,3 +5,5 @@ This code allows to reduce quality, resize images and/or change format (for gifs
 In order to run this code, please see the script in the package.json file
 
 Also, you can specify the desired size of each image by adding that information in the object 'dimensionsMapping' located in the file 'optimizeImages'.
+
+All images need to be saved in one directory. If you need to change the current directory, please do so in the file 'optimizeImages', variable `dirPath`. The same goes for where to save the excluded images json file, change this variable if needed: `excludedImagesPath`
