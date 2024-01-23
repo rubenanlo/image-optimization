@@ -1,0 +1,13 @@
+{
+  "name": "image-optimization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "import-image": "node ./optimization/prepare"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
